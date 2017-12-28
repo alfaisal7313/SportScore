@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sport Score</string>
+    <string name="minus_button">Minus</string>
+    <string name="plus">Plus</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="reset_score">Reset Score</string>
+    <string name="name_sport">Sport Name</string>
+    <string name="team_name">Team Name</string>
+    <string name="desc_name">Description Team</string>
+    <string name="description" ><p>application to calculate the score of a race between teams performed like ball, basketball, badminton, volleyball and others.</p>
+        <p>this application is also a laatihan of fundamental android book.</p></string>
+    <string name="dev"><b> Nama : Muhammad Al-Faisal</b>
+        \n\n
+        <b>Sosial Media</b> \n\n
+        Facebook : https://www.facebook.com/Ahmead.faisal \n
+        Github   : https://github.com/faisalaja \n
+        Email    : fais.season2@gmail.com</string>
+</resources>
